@@ -10,7 +10,7 @@ cars = [{'name': 'Audi', 'price': 52642},
         {'name': 'Volvo', 'price': 29000},
         {'name': 'Bentley', 'price': 350000},
         {'name': 'Citroen', 'price': 21000},
-        {'name': 'Hummer', 'price': 42500},
+        {'name': 'Hummer', 'price': 43500},
         {'name': 'Volkswagen', 'price': 21600}]
 
 client = MongoClient('mongodb://localhost:27017/')
